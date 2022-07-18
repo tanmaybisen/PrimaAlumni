@@ -1,0 +1,81 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+.row {
+  margin: 10px auto;
+  padding: 0px 0px;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px; }
+
+.footer {
+  background-color: #52ab98;
+  margin: 0px auto;
+  padding: 20px 0px; }
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #52ab98;
+  color: floralwhite; }
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f; }
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; }
+
+.navbar-dark {
+  background-color: #2b6777; }
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px; }
+
+.carousel .carousel-item {
+  background: #2b6777;
+  height: 200px; }
+  .carousel .carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 200px; }
+
+.carousel-indicators {
+  bottom: -200px; }
+
+.carousel-control-prev {
+  bottom: -200px; }
+
+.carousel-control-next {
+  bottom: -200px; }
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: -200px;
+  z-index: 1; }
+
+.modal {
+  margin: 0px auto;
+  padding: 0px 0px; }
+  .modal .modal-dialog .modal-content .modal-header {
+    background: #52ab98; }
+    .modal .modal-dialog .modal-content .modal-header .modal-title {
+      color: #ddd; }
+    .modal .modal-dialog .modal-content .modal-header button {
+      color: #ffffff; }
+  .modal .modal-dialog .modal-content .modal-body {
+    background: #ffffff; }
+
+/*# sourceMappingURL=styles.css.map */

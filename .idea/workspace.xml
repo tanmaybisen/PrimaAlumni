@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb7449cb-3c07-466e-9d0d-df56c2ae7b9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chronicle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles-old.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/monitor.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/monitor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/p2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/p3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/platform.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/platform.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/react.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/s1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/s2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/s3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/s4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/s5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/secure.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/secure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/t1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/t2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/t3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tranning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trends.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2C7eivypzHkkfa1hrNVHBOr77k5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb7449cb-3c07-466e-9d0d-df56c2ae7b9e" name="Default Changelist" comment="" />
+      <created>1658158191696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658158191696</updated>
+    </task>
+    <servers />
+  </component>
+</project>
